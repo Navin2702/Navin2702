@@ -1,0 +1,10 @@
+SELECT AN OPTION 
+
+
+
+<label>Gender</label>
+<select> name = ‘gen’>
+      <option value = “male”>male</option>
+      <option value = “female”>female</option>
+      <option value = “others”>others</option>
+</select> 
