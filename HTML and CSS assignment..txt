@@ -1,0 +1,30 @@
+<html>
+    	<header>
+		<title> My title </title>
+		<style>
+		  .Name{
+			Display:grid;
+			Font-weight: bold;
+		}
+		<style
+	<header>
+</header>
+<body>
+	<div>
+	<p> Css can br applied n three ways </p>
+	<div class = "Name" >
+	   <span> *Inline Css </span>
+	   <span> *Internal Css </span>
+	   <span> *External Css </span>
+	</div>
+	<p> This file is example of Internal Css </p>
+	<div>
+		<video src = "sample-mp4-file.mp4" autoplay>
+		</video>
+	</div>
+	<p> Hey I am Navin Surya.
+	<b> I am from ECE </b>
+	</p>
+</body>
+</html> 
+          
